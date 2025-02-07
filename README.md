@@ -35,10 +35,17 @@ Didache -> w miarę czasu będą linki do biblii uzupełniane
 
 **SOBORY** zawiera obecnie jedynie dokumenty Soboru Watykańskiego II, przy czym dekret Christus Dominus jest niekompletny, linki do Biblii niekompletne - w miarę czytania będę aktualizował
 
-**git** powinien zawierać pliki, jakie zostały zmienione/dodane/usunięte od poprzedniej wersji
+**git** powinien zawierać informacje o plikach, jakie zostały zmienione/dodane/usunięte od poprzedniej wersji
+
+### pluginy obisdiana z jakich korzystam:
+- homepage
+- obsidian-annotator
+- obsidian-bible-linker
+- obsidian-footnotes
+- obsidian-linter
 
 ## Uwagi do tekstów
-Teksty pochodzą głównie z serwisów http://biblia.apologetyka.co, http://www.madel.jezuici.pl/biblia/Biblia.html, http://www.katechizm.opoka.org.pl/index-2.html
+Teksty pochodzą głównie z serwisów http://biblia.apologetyka.co, http://www.madel.jezuici.pl/biblia/Biblia.html, https://pl.wikisource.org/w/index.php?title=Biblia_Wujka oraz http://www.katechizm.opoka.org.pl/index-2.html
 Teksty obarczone są wieloma literówkami, błędami, a nawet brakującymi wersetami, czytając jeszcze mi się nie zdarzyło, abym nie poprawił jakiegoś fragmentu, sukcesywnie staram się poprawiać, a czytam obecnie wydanie BT5 w formie jak katalogu Bible_notes. Jak robię jakieś zmiany na tekście w tym folderze, to staram się pamiętać o sklonowaniu zmian do folderu źródłowego Bible.
 
-Jeśli drogi internauto trafiłeś tutaj, możesz wziąć katalog Bible z tekstami źródłowymi i używać AMDG. albo też korzystać z systemu linków jakie już zacząłem robić, ale proszę pamiętać, że temu tekstowi nie można ufać w 100% - lepiej jest sprawdzać ze źródłami papierowymi, które z resztą też nie są wolne od pomyłek.
+Jeśli drogi internauto trafiłeś tutaj, możesz wziąć katalog Bible z tekstami źródłowymi i używać AMDG, możesz też korzystać z systemu linków jakie już zacząłem robić, ale proszę pamiętać, że temu tekstowi nie można ufać w 100% - lepiej jest sprawdzać ze źródłami papierowymi, które z resztą też nie są wolne od pomyłek.
