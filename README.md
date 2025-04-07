@@ -33,7 +33,7 @@ De imitatione Christi -> jedynie fragment, w miarę czytania będą aktualizowan
 Denziger -> narazie jedynie kilka punktów, w miarę czytania będą aktualizowane pozostałe - przydatne do Katechizmu Kościoła Katolickiego - patrz poniżej
 Didache -> w miarę czasu będą linki do biblii uzupełniane
 
-**SOBORY** zawiera obecnie jedynie dokumenty Soboru Watykańskiego II, przy czym dekret Christus Dominus jest niekompletny, linki do Biblii niekompletne - w miarę czytania będę aktualizował
+**SOBORY** zawiera obecnie jedynie dokumenty Soboru Watykańskiego II, linki do Biblii niekompletne - w miarę czytania będę aktualizował
 
 **git** powinien zawierać informacje o plikach, jakie zostały zmienione/dodane/usunięte od poprzedniej wersji
 
