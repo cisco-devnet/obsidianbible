@@ -26,7 +26,7 @@ Biblia.md
 
 **Bible_notes** zawiera tekst BT5 wraz z naniesionymi linkami do innych części Bibli dla niektórych ksiąg NT. Sukcesywnie w miarę możliwości i czytania staram się nanosić takie linki wzięte z Bibli Jerozolimskiej, w planie z pozostałych wydań w miarę czytania. Dla trzech rozdziałów w NT naniesione również komentarze z rożnych przekładów Pisma Świętego, jako przykład wykorzystania obsidiana do tworzenia notatek i czytania/szybszego przeglądania. W planie dodanie linków do KKK.
 
-**KKK** Katechizm Kościoła Katolickiego. Część linków do Bibli naniesiona, część linków do niektórych dokumentów Soboru Watykańskiego II naniesiona, ale jeszcze nie wszystkie. W planie dodanie linków pomiędzy kolejnymi punktami.
+**KKK** Katechizm Kościoła Katolickiego. Naniesione chyba wszystkie linki do Pisma Świętego, większość linków do dokumentów Soboru Watykańskiego II naniesiona, ale chyba jeszcze nie wszystkie. W planie dodanie linków pomiędzy kolejnymi punktami.
 
 **Ksiazki** obecnie zawiera jedynie pozycje:
 De imitatione Christi -> jedynie fragment, w miarę czytania będą aktualizowane następne punkty
