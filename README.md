@@ -29,7 +29,7 @@ Biblia.md
 **KKK** Katechizm Kościoła Katolickiego. Naniesione chyba wszystkie linki do Pisma Świętego, większość linków do dokumentów Soboru Watykańskiego II naniesiona, ale chyba jeszcze nie wszystkie. W planie dodanie linków pomiędzy kolejnymi punktami.
 
 **Ksiazki** obecnie zawiera jedynie pozycje:
-De imitatione Christi -> jedynie fragment, w miarę czytania będą aktualizowane następne punkty
+De imitatione Christi -> pierwsza księga ukończona, w miarę czytania będą aktualizowane następne księgi
 Denziger -> narazie jedynie kilka punktów, w miarę czytania będą aktualizowane pozostałe - przydatne do Katechizmu Kościoła Katolickiego - patrz poniżej
 Didache -> w miarę czasu będą linki do biblii uzupełniane
 
