@@ -22,7 +22,7 @@ Biblia.md
 - BP -> Biblia Poznańska
 - BR -> Biblia Warszawsko-Prasa bp. Romaniuka
 - STERN -> Nowy Testament przekład żydowski Davda Sterna
-- TRO -> tekxtus receptus opblubienicy (NT)
+- TRO -> tekxtus receptus oblubienicy (NT)
 
 **Bible_notes** zawiera tekst BT5 wraz z naniesionymi linkami do innych części Bibli dla niektórych ksiąg NT. Sukcesywnie w miarę możliwości i czytania staram się nanosić takie linki wzięte z Bibli Jerozolimskiej, w planie z pozostałych wydań w miarę czytania. Dla trzech rozdziałów w NT naniesione również komentarze z rożnych przekładów Pisma Świętego, jako przykład wykorzystania obsidiana do tworzenia notatek i czytania/szybszego przeglądania. W planie dodanie linków do KKK.
 
