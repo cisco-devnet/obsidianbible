@@ -20,7 +20,7 @@ Biblia.md
 - BT5 -> Biblia Tysiąclecia wydanie V
 - PAU -> Biblia Paulistów edycji św. Pawła
 - BP -> Biblia Poznańska
-- BR -> Biblia Warszawsko-Prasa bp. Romaniuka
+- BR -> Biblia Warszawsko-Praska bp. Romaniuka
 - STERN -> Nowy Testament przekład żydowski Davda Sterna
 - TRO -> tekxtus receptus oblubienicy (NT)
 
