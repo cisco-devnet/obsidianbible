@@ -29,11 +29,11 @@ Biblia.md
 **KKK** Katechizm Kościoła Katolickiego. Naniesione chyba wszystkie linki do Pisma Świętego, większość linków do dokumentów Soboru Watykańskiego II naniesiona, ale chyba jeszcze nie wszystkie. W planie dodanie linków pomiędzy kolejnymi punktami.
 
 **Ksiazki** obecnie zawiera jedynie pozycje:
-BREVIARIUM FIDEI -> dodano 08.2025. Linki wewnętrzne (w indeksach na końcu) powinny działać, brak linków zewnętrznych i linków do indeksów w spisie treści - do dodania.
-De imitatione Christi -> pierwsza księga ukończona, w miarę czytania będą aktualizowane następne księgi
-Denziger -> narazie jedynie kilka punktów, w miarę czytania będą aktualizowane pozostałe - przydatne do Katechizmu Kościoła Katolickiego - patrz poniżej
-Didache -> w miarę czasu będą linki do biblii uzupełniane
-Summa -> narazie próba dodania Tomu pierwszego
+- BREVIARIUM FIDEI -> dodano 08.2025. Linki wewnętrzne (w indeksach na końcu) powinny działać, brak linków zewnętrznych i linków do indeksów w spisie treści - do dodania.
+- De imitatione Christi -> pierwsza księga ukończona, w miarę czytania będą aktualizowane następne księgi
+- Denziger -> narazie jedynie kilka punktów, w miarę czytania będą aktualizowane pozostałe - przydatne do Katechizmu Kościoła Katolickiego - patrz poniżej
+- Didache -> w miarę czasu będą linki do biblii uzupełniane
+- Summa -> narazie próba dodania Tomu pierwszego
 
 **SOBORY** zawiera obecnie jedynie dokumenty Soboru Watykańskiego II, linki do Biblii niekompletne - w miarę czytania będę aktualizował
 
