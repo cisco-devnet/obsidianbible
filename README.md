@@ -24,7 +24,7 @@ Biblia.md
 - STERN -> Nowy Testament przekład żydowski Davda Sterna
 - TRO -> tekxtus receptus oblubienicy (NT)
 
-**Bible_notes** zawiera tekst BT5 wraz z naniesionymi linkami do innych części Bibli dla niektórych ksiąg NT. Sukcesywnie w miarę możliwości i czytania staram się nanosić takie linki wzięte z Bibli Jerozolimskiej, w planie z pozostałych wydań w miarę czytania. Dla trzech rozdziałów w NT naniesione również komentarze z rożnych przekładów Pisma Świętego, jako przykład wykorzystania obsidiana do tworzenia notatek i czytania/szybszego przeglądania. W planie dodanie linków do KKK.
+**Bible_notes** zawiera tekst BT5 wraz z naniesionymi linkami do innych części Bibli dla wszystkich ksiąg NT i niektórych ST. NT dla BT5 jest chyba w całości poprawiony z literówek (jeśli czegoś nie przeoczyłem). Sukcesywnie w miarę możliwości i czytania staram się nanosić takie linki wzięte z Bibli Jerozolimskiej, w planie z pozostałych wydań w miarę czytania. Dla trzech rozdziałów w NT naniesione również komentarze z rożnych przekładów Pisma Świętego, jako przykład wykorzystania obsidiana do tworzenia notatek i czytania/szybszego przeglądania. W planie dodanie linków do KKK.
 
 **KKK** Katechizm Kościoła Katolickiego. Naniesione chyba wszystkie linki do Pisma Świętego, większość linków do dokumentów Soboru Watykańskiego II naniesiona, ale chyba jeszcze nie wszystkie. W planie dodanie linków pomiędzy kolejnymi punktami.
 
