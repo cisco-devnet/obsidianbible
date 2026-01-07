@@ -12,6 +12,7 @@ Bible_notes
 KKK
 Ksiazki
 SOBORY
+Strong
 git
 Biblia.md
 ```
@@ -37,6 +38,8 @@ Biblia.md
 
 **SOBORY** zawiera obecnie jedynie dokumenty Soboru Watykańskiego II, linki do Biblii niekompletne - w miarę czytania będę aktualizował
 
+**Strong** zawiera pliki słownika stronga do TRO. Narazie nawet na tablecie PineNote (2021 rok) działa poprawnie, w miarę szybko.
+
 **git** powinien zawierać informacje o plikach, jakie zostały zmienione/dodane/usunięte od poprzedniej wersji
 
 ### pluginy obisdiana z jakich korzystam:
@@ -45,6 +48,9 @@ Biblia.md
 - obsidian-bible-linker
 - obsidian-footnotes
 - obsidian-linter
+
+## Uwagi do obsidiana
+Po dodaniu plików słownikowych stronga, nie zalecam uruchamiania widoku grafu, chyba, że na szybkim nowym komputerze, w przeciwnym razie obsidian może się mocno przyciąć. Również nie zalecam rozwijania widoku katalogu Strong. Zawiera on prawie 5,500 plików, co w przypadku Nowego Testamentu, robi liczbę linków równą liczbie słów.
 
 ## Uwagi do tekstów
 Teksty pochodzą głównie z serwisów http://biblia.apologetyka.co, http://www.madel.jezuici.pl/biblia/Biblia.html, https://pl.wikisource.org/w/index.php?title=Biblia_Wujka oraz http://www.katechizm.opoka.org.pl/index-2.html
